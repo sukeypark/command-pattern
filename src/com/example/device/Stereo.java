@@ -18,4 +18,10 @@ public class Stereo {
 
     }
 
+    public void withdrawCD() {
+    }
+
+    public void removeVolume() {
+    }
+
 }
