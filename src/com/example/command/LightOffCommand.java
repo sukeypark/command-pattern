@@ -12,6 +12,8 @@ public class LightOffCommand implements Command {
 
     @Override
     public void execute() {
+        light.off();
+    }
         light.on();
     }
 
