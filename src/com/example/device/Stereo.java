@@ -6,6 +6,10 @@ public class Stereo {
 
     }
 
+    public void off() {
+
+    }
+
     public void setCD() {
 
     }
