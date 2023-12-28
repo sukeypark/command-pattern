@@ -1,6 +1,5 @@
 package com.example;
 
-import com.example.command.Command;
 import com.example.command.LightOffCommand;
 import com.example.command.LightOnCommand;
 import com.example.command.StereoOffCommand;
